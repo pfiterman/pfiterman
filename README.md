@@ -12,6 +12,3 @@
   <img align="center" alt="Mark Lee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pfiterman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
 </a>
 <br/>
-<a href="https://github-readme-stats.pfiterman.vercel.app/api/top-langs/?username=pfiterman&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfiterman&layout=compact&hide_border=true&theme=radical&langs_count=10" />
-</a>
