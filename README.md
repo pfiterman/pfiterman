@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! I'm Pablo Fiterman!
 
-<!--
-**pfiterman/pfiterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a freelance full-stack software developer
 
-Here are some ideas to get you started:
+- I have got started developer simple prototypes using React and React Native
+- I am extremely passionate in my chosen field, Developer
+- I have a goal to deleloper solutions to make impact in people lives somehow
+- I am also a fan of all the old-fashioned and classic games
+- If you're looking for a full-stack, multi-disciplined, freelance developer get in touch!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github-readme-stats.vercel.app/api?username=pfiterman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+  <img align="center" alt="Mark Lee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pfiterman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+</a>
+<br/>
+<a href="https://github-readme-stats.caprica.vercel.app/api/top-langs/?username=pfiterman&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfiterman&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+</a>
