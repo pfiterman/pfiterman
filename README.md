@@ -3,7 +3,7 @@
 ## I'm a freelance full-stack software developer
 
 - I have started to develop simple prototypes using React and React Native
-- I am extremely passionate in my chosen field, Developer
+- I am extremely passionate in my chosen field, Software Developer
 - I have a goal to develop solutions to make impact in people lives
 - I am also a fan of all the old-fashioned and classic games
 - If you're looking for a full-stack, multi-disciplined, freelance developer get in touch!
