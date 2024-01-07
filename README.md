@@ -2,7 +2,7 @@
 
 ## I'm a freelancer software developer
 
-- I have an unwavering passion for the field I've chosen — Software Development
+- I have an unwavering passion for the field I have chosen — Software Development
 - Fast-learner, perpetual problem-solver, and avid tech enthusiast.
 - I have been on a career adventure, cooking up web and desktop solutions
 - I Dove into PHP and C#, gaining hands-on experience, and SQL with databases such as SQL Server, Oracle, MySQL, and PostgreSQL
