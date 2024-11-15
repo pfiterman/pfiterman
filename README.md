@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-➡️ I have an unwavering passion for the field I have chosen - Software Development<br>➡️ I am a fast-learner, perpetual problem-solver, and avid tech enthusiast<br>➡️ I have been on a career adventure, coding web and desktop solutions<br>➡️ I gained hands-on experience in PHP and C#, as well as SQL with databases such as SQL Server, Oracle, MySQL, and PostgreSQL<br>➡️ I am on an exciting journey to master leading frontend frameworks: React, Angular, and Vue<br><br>If you need a full or part-time front-end developer with a diverse skill set, hit me up
+➡️ I have an unwavering passion for the field I have chosen - Software Development<br>➡️ I am a fast-learner, perpetual problem-solver, and avid tech enthusiast<br>➡️ I have been on a career adventure, coding web and desktop solutions<br>➡️ I gained hands-on experience in PHP and C#, as well as SQL with databases such as SQL Server, Oracle, MySQL, and PostgreSQL<br>➡️ I am currently focused on mastering top frontend frameworks, including React, Angular, and Vue, to enhance my expertise in modern web development<br><br>If you need a full or part-time front-end developer with a diverse skill set, hit me up
 
 ## 🌐 Socials:
 
