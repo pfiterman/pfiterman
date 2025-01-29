@@ -39,8 +39,4 @@ If you need a full or part-time full-stack developer with a diverse skill set, h
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pfiterman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pfiterman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=pfiterman&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
