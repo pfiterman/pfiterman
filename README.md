@@ -5,7 +5,7 @@
 ➡️ I have been on a dynamic career journey, developing both web and desktop solutions<br>
 ➡️ I have hands-on experience with React, PHP, C#, and SQL<br>
 ➡️ I have experience working with various databases, including SQL Server, Oracle, MySQL, and PostgreSQL<br>
-➡️ I am actively expanding my expertise in leading frontend frameworks, including React, Angular, and Vue.<br><br>
+➡️ I am actively expanding my expertise in leading frontend frameworks, including React, Angular, and Vue<br>
 
 ## 🌐 Socials:
 
