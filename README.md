@@ -1,18 +1,18 @@
-# 💫 About Me:
+### 💫 About Me:
 
-- Dedicated and passionate Software Developer with a strong foundation in both web and desktop application development.
+- Dedicated and passionate Software Developer with expertise in web and desktop application development
 - Known for being a quick learner, problem-solver, and enthusiastic technologist
-- Thrive in dynamic environments and enjoy tackling complex challenges.
-- Bring hands-on experience with technologies such as React.js, Next.js, Django, Python, PHP, C#, and SQL.
+- Thrive in dynamic environments and enjoy tackling complex challenges
+- Bring hands-on experience with technologies such as React.js, Next.js, Django, Python, PHP, C#, and SQL
 - Worked extensively with databases including SQL Server, Oracle, MySQL, and PostgreSQL.
 - Explored modern backend data platforms such as Supabase and MondoDB
 - Continuously expanding my skill set, currently training AI Data Models
 
-## 🌐 Socials:
+### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pfiterman)
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pfiterman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pfiterman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
