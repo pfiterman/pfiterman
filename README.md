@@ -1,11 +1,12 @@
 # 💫 About Me:
 
-➡️ I have an unwavering passion for the field I have chosen — Software Development<br>
-➡️ I am a fast-learner, perpetual problem-solver, and avid tech enthusiast<br>
-➡️ I have been on a dynamic career journey, developing both web and desktop solutions<br>
-➡️ I have hands-on experience with React, PHP, C#, and SQL<br>
-➡️ I have experience working with various databases, including SQL Server, Oracle, MySQL, and PostgreSQL<br>
-➡️ I am actively expanding my expertise in leading frontend frameworks, including React, Angular, and Vue<br>
+- Dedicated and passionate Software Developer with a strong foundation in both web and desktop application development.
+- Known for being a quick learner, problem-solver, and enthusiastic technologist
+- Thrive in dynamic environments and enjoy tackling complex challenges.
+- Bring hands-on experience with technologies such as React.js, Next.js, Django, Python, PHP, C#, and SQL.
+- Worked extensively with databases including SQL Server, Oracle, MySQL, and PostgreSQL.
+- Explored modern backend data platforms such as Supabase and MondoDB
+- Continuously expanding my skill set, currently training AI Data Models
 
 ## 🌐 Socials:
 
@@ -33,6 +34,8 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 # 📊 GitHub Stats:
 
