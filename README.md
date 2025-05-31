@@ -1,13 +1,3 @@
-### 💫 About Me:
-
-- Dedicated and passionate Software Developer with expertise in web and desktop application development
-- Known for being a quick learner, problem-solver, and enthusiastic technologist
-- Thrive in dynamic environments and enjoy tackling complex challenges
-- Bring hands-on experience with technologies such as React.js, Next.js, Django, Python, PHP, C#, and SQL
-- Worked extensively with databases including SQL Server, Oracle, MySQL, and PostgreSQL.
-- Explored modern backend data platforms such as Supabase and MondoDB
-- Continuously expanding my skill set, currently training AI Data Models
-
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pfiterman)
